@@ -5,7 +5,7 @@ body{
     height: 100%;
     margin: 0; /* Remove margens padrão */
     height: 100vh;
-    background-image: url(/Financeiro/IMAGES/background.png);
+    background-image: url(../IMAGES/background.png);
     background-size: cover; /* Faz a imagem cobrir toda a tela */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
     background-position: center; /* Centraliza a imagem */
